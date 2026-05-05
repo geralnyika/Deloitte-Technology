@@ -8,16 +8,21 @@ This repository contains Deliverables and solutions from the Deloitte Australia 
 **What I built:** A Python data pipeline that imports both formats, converts timestamps to UTC, and produces a standardized schema that can be used for further analysis. incorporates automated unit testing to verify the accuracy of the output.
 
 **Files:**
-- `main.py` - Conversion functions and unit tests
-- `data-1.json` - Input format 1 (flat structure)
-- `data-2.json` - Input format 2 (nested structure)
-- `data-result.json` - Target unified output format
+| File | Description |
+|:---|:---:|
+| `main.py` | Conversion functions and unit tests |
+| `data-1.json` | Input format 1 (flat structure) |
+| `data-2.json` |  Input format 2 (nested structure) |
+| `data-result.json` | Target unified output format  |
+
 
 **Results:** All 3 unit tests passed successfully.
 
-## Task 2: Development Proposal
+## Task 2: Real-Time Dashboard Proposal
 
-Drafted a formal development proposal for a real-time manufacturing status dashboard for Daikibo Industrials, covering project scope, man-hour estimates, project timeline, and post-launch support planning.
+**The Problem:** Daikibo required a way to keep track of the manufacturing status in real time across several factory locations.
+
+**What I produced:** A formal software development proposal that is organized as a professional client-facing deliverable and covers technical scope, man-hour estimates, project timeline, and post-launch support planning.
 
 **Files:**
 - `Geraldine Nyika  —  Software Development Proposal.pdf` - Full proposal document

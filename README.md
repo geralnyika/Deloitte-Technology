@@ -3,7 +3,7 @@ This repository contains Deliverables and solutions from the Deloitte Australia 
 
 ## Task 1: Telemetry Data Unification
 
-**The problem:** Daikibo Industrials' factory needed analysis, however, unified analysis was not possible because the factory telemetry from Daikibo Industrials was coming in two different JSON formats.
+**The problem:** Daikibo Industrials' factory needed help with analysis, however, unified analysis was not possible because the factory telemetry from Daikibo Industrials was coming in two different JSON formats.
 
 **What I built:** A Python data pipeline that imports both formats, converts timestamps to UTC, and produces a standardized schema that can be used for further analysis. incorporates automated unit testing to verify the accuracy of the output.
 

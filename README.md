@@ -25,8 +25,12 @@ This repository contains Deliverables and solutions from the Deloitte Australia 
 **What I produced:** A formal software development proposal that is organized as a professional client-facing deliverable and covers technical scope, man-hour estimates, project timeline, and post-launch support planning.
 
 **Files:**
-- `Geraldine Nyika  —  Software Development Proposal.pdf` - Full proposal document
+| File | Description |
+|:---|:---:|
+| `Geraldine Nyika  —  Software Development Proposal.pdf` | Full proposal document |
+
 
 ## Technologies Used
 - Python 3
 - JSON
+- Unit Testing
